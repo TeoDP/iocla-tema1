@@ -32,6 +32,16 @@ typedef struct student_t {
 	float grade;
 } student_t;
 
+typedef struct {
+	int nr, size, count, len;
+	void *data;
+} TIndexAcc;
+
+typedef struct {
+	int nr;
+	array_t arr;
+} TArrAcc;
+
 /**
  * @brief Reverse a given list of integers.
  * The received list will be freed by the caller.

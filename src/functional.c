@@ -21,7 +21,8 @@ array_t map(void (*func)(void *, void *), int new_list_elem_size,
 // if ((void *)(((char *)result.data) + i * result.elem_size) == NULL) break;
 		func((void *)(((char *)result.data) + i * result.elem_size),
 			 (void *)(((char *)list.data) + i * list.elem_size));
-		list.destructor((void *)(((char *)list.data) + i * list.elem_size));
+		if (list.destructor)
+			list.destructor((void *)(((char *)list.data) + i * list.elem_size));
 	}
 	free(list.data);
 	return result;

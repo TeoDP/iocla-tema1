@@ -2,3 +2,5 @@
 *.out
 *.valgrind
 functional
+.git_old/*
+*.zip
