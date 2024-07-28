@@ -7,7 +7,7 @@
         "status": "5",
         "log": "2 4 6 8 10 \n",
         "time_normal": 0.004320494,
-        "time_valgrind": 1.342305188,
+        "time_valgrind": 1.5516319109999999,
         "timeout": 30000,
         "test_score": 5
       },
@@ -17,7 +17,7 @@
         "status": "5",
         "log": "19 21 18 26 22 \n",
         "time_normal": 0.004804946,
-        "time_valgrind": 1.136237409,
+        "time_valgrind": 1.552219094,
         "timeout": 30000,
         "test_score": 5
       },
@@ -27,7 +27,7 @@
         "status": "5",
         "log": "2 3 4 5 6 7 8 9 10 11 \n",
         "time_normal": 0.004108846,
-        "time_valgrind": 1.419304909,
+        "time_valgrind": 1.528919493,
         "timeout": 30000,
         "test_score": 5
       },
@@ -37,7 +37,7 @@
         "status": "5",
         "log": "55 \n",
         "time_normal": 0.002942561,
-        "time_valgrind": 1.091267413,
+        "time_valgrind": 1.5456403060000001,
         "timeout": 30000,
         "test_score": 5
       },
@@ -47,7 +47,7 @@
         "status": "10",
         "log": "Jimmut 19 7.9\nAlinafe 21 9.3\nPhaida 18 8.5\nKatarine 26 10.0\nElen 22 5.7\n",
         "time_normal": 0.003003584,
-        "time_valgrind": 1.363030934,
+        "time_valgrind": 1.5040276750000001,
         "timeout": 30000,
         "test_score": 10
       },
@@ -57,7 +57,7 @@
         "status": "10",
         "log": "1 11 21\n2 12 22\n3 13 23\n4 14 24\n5 15 25\n6 16 26\n7 17 27\n8 18 28\n",
         "time_normal": 0.00291463,
-        "time_valgrind": 1.404233771,
+        "time_valgrind": 1.5268358229999999,
         "timeout": 30000,
         "test_score": 10
       },
@@ -67,7 +67,7 @@
         "status": "10",
         "log": "-111 \n",
         "time_normal": 0.002748104,
-        "time_valgrind": 1.4237296480000001,
+        "time_valgrind": 1.536323924,
         "timeout": 30000,
         "test_score": 10
       },
@@ -77,7 +77,7 @@
         "status": "7",
         "log": "10 9 8 7 6 5 4 3 2 1 \n",
         "time_normal": 0.003334412,
-        "time_valgrind": 1.361090589,
+        "time_valgrind": 1.5625061580000001,
         "timeout": 30000,
         "test_score": 7
       },
@@ -87,7 +87,7 @@
         "status": "7",
         "log": "1.0\n2.9\n3.8\n4.7\n5.6\n6.5\n7.4\n8.3\n9.2\n10.1\n",
         "time_normal": 0.003287275,
-        "time_valgrind": 1.394076132,
+        "time_valgrind": 1.317640709,
         "timeout": 30000,
         "test_score": 7
       },
@@ -97,7 +97,7 @@
         "status": "8",
         "log": "Jimmut Alinafe Phaida Katarine Elen \n",
         "time_normal": 0.003079283,
-        "time_valgrind": 1.4239993530000001,
+        "time_valgrind": 1.548442375,
         "timeout": 30000,
         "test_score": 8
       },
@@ -107,7 +107,7 @@
         "status": "9",
         "log": "true false false true false \n",
         "time_normal": 0.003112653,
-        "time_valgrind": 1.127312364,
+        "time_valgrind": 1.317354165,
         "timeout": 30000,
         "test_score": 9
       },
@@ -117,7 +117,7 @@
         "status": "9",
         "log": "Jimmut Phaida Elen \n",
         "time_normal": 0.002667114,
-        "time_valgrind": 1.38931705,
+        "time_valgrind": 1.5261449630000001,
         "timeout": 30000,
         "test_score": 9
       },
@@ -127,7 +127,7 @@
         "status": "10",
         "log": "1 2 3 4 5 6 7 8 \n2 3 4 5 6 7 8 9 \n3 4 5 6 7 8 9 10 \n4 5 6 7 8 9 10 11 \n5 6 7 8 9 10 11 12 \n6 7 8 9 10 11 12 13 \n7 8 9 10 11 12 13 14 \n8 9 10 11 12 13 14 15 \n",
         "time_normal": 0.000992854,
-        "time_valgrind": 1.419748857,
+        "time_valgrind": 1.346943525,
         "timeout": 30000,
         "test_score": 10
       }
